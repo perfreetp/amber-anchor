@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="12799mm" height="23681mm" viewBox="0 0 12799 23681" font-family="Microsoft YaHei, SimHei, sans-serif">
+<rect x="0" y="0" width="12799" height="23681" fill="#fbfbf8"/>
+<rect x="8" y="8" width="12783" height="23665" fill="none" stroke="#999" stroke-width="0.4" stroke-dasharray="3 2"/>
+<path d="M78.03,169.39 L1641.69,70.31 L3204.25,73.26 L4772.22,79.96 L6352.39,90.74 L7945.80,98.50 L9547.24,102.10 L11147.51,105.96 L12735.27,20.00 L12682.84,1267.44 L12679.54,2515.34 L12666.24,3763.37 L12648.17,5012.07 L12628.63,6261.62 L12610.83,7511.74 L12597.04,8761.73 L12587.96,10010.67 L12583.10,11257.73 L12582.53,12502.43 L12583.62,13744.93 L12588.27,14986.02 L12600.18,16227.28 L12614.14,17471.72 L12650.60,18724.91 L12646.68,19998.68 L12778.91,21305.10 L12578.03,22669.39 L10938.08,23027.63 L9297.62,23120.99 L7686.18,23219.87 L6095.16,23315.35 L4516.88,23398.28 L2945.91,23463.89 L1380.76,23550.73 L1631.36,22011.75 L1572.47,20516.87 L1620.60,19081.46 L1625.14,17699.68 L1635.35,16364.11 L1637.26,15065.19 L1638.88,13792.47 L1639.65,12536.41 L1638.36,11289.05 L1636.36,10044.79 L78.77,10173.04 L73.30,8923.03 L65.03,7672.39 L54.60,6421.12 L43.25,5169.79 L32.81,3918.98 L25.31,2668.80 L20.00,1418.81 Z" fill="#e8f1f5" stroke="#1b4965" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="859.9" y="113.9" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-3.6 859.9 113.9)">1566.8</text>
+<text x="49.0" y="788.1" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-87.3 49.0 788.1)">1250.8</text>
+<text x="2423.0" y="65.8" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(0.1 2423.0 65.8)">1562.6</text>
+<text x="3988.2" y="70.6" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(0.2 3988.2 70.6)">1568.0</text>
+<text x="5562.3" y="79.3" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(0.4 5562.3 79.3)">1580.2</text>
+<text x="7149.1" y="88.6" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(0.3 7149.1 88.6)">1593.4</text>
+<text x="8746.5" y="94.3" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(0.1 8746.5 94.3)">1601.4</text>
+<text x="10347.4" y="98.0" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(0.1 10347.4 98.0)">1600.3</text>
+<text x="11941.4" y="57.0" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-3.1 11941.4 57.0)">1590.1</text>
+<g transform="rotate(92.4 12709.1 643.7)"><rect x="12693.1" y="635.7" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12709.1" y="647.7" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12709.1" y="659.7" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12709.1" y="637.7" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(92.4 12709.1 637.7)">1248.5</text>
+<text x="22.7" y="2037.8" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-90.2 22.7 2037.8)">1250.0</text>
+<g transform="rotate(90.2 12681.2 1891.4)"><rect x="12665.2" y="1883.4" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12681.2" y="1895.4" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12681.2" y="1907.4" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12681.2" y="1885.4" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(90.2 12681.2 1885.4)">1247.9</text>
+<text x="29.1" y="3287.9" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-90.3 29.1 3287.9)">1250.2</text>
+<g transform="rotate(90.6 12672.9 3139.4)"><rect x="12656.9" y="3131.4" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12672.9" y="3143.4" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12672.9" y="3155.4" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12672.9" y="3133.4" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(90.6 12672.9 3133.4)">1248.1</text>
+<text x="38.0" y="4538.4" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-90.5 38.0 4538.4)">1250.9</text>
+<g transform="rotate(90.8 12657.2 4387.7)"><rect x="12641.2" y="4379.7" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12657.2" y="4391.7" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12657.2" y="4403.7" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12657.2" y="4381.7" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(90.8 12657.2 4381.7)">1248.8</text>
+<text x="48.9" y="5789.5" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-90.5 48.9 5789.5)">1251.4</text>
+<g transform="rotate(90.9 12638.4 5636.8)"><rect x="12622.4" y="5628.8" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12638.4" y="5640.8" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12638.4" y="5652.8" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12638.4" y="5630.8" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(90.9 12638.4 5630.8)">1249.7</text>
+<text x="59.8" y="7040.8" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-90.5 59.8 7040.8)">1251.3</text>
+<g transform="rotate(90.8 12619.7 6886.7)"><rect x="12603.7" y="6878.7" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12619.7" y="6890.7" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12619.7" y="6902.7" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12619.7" y="6880.7" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(90.8 12619.7 6880.7)">1250.2</text>
+<text x="69.2" y="8291.7" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-90.4 69.2 8291.7)">1250.7</text>
+<g transform="rotate(90.6 12603.9 8136.7)"><rect x="12587.9" y="8128.7" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12603.9" y="8140.7" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12603.9" y="8152.7" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12603.9" y="8130.7" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(90.6 12603.9 8130.7)">1250.1</text>
+<text x="857.6" y="10102.9" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(175.3 857.6 10102.9)">1562.9</text>
+<text x="76.0" y="9542.0" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-90.3 76.0 9542.0)">1250.0</text>
+<g transform="rotate(90.4 12592.5 9386.2)"><rect x="12576.5" y="9378.2" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12592.5" y="9390.2" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12592.5" y="9402.2" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12592.5" y="9380.2" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(90.4 12592.5 9380.2)">1249.0</text>
+<text x="1637.4" y="10660.9" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-90.1 1637.4 10660.9)">1244.3</text>
+<g transform="rotate(90.2 12585.5 10634.2)"><rect x="12569.5" y="10626.2" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12585.5" y="10638.2" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12585.5" y="10650.2" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12585.5" y="10628.2" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(90.2 12585.5 10628.2)">1247.1</text>
+<text x="1639.0" y="11906.7" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-90.1 1639.0 11906.7)">1247.4</text>
+<g transform="rotate(90.0 12582.8 11880.1)"><rect x="12566.8" y="11872.1" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12582.8" y="11884.1" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12582.8" y="11896.1" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12582.8" y="11874.1" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(90.0 12582.8 11874.1)">1244.7</text>
+<text x="1639.3" y="13158.4" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-90.0 1639.3 13158.4)">1256.1</text>
+<g transform="rotate(89.9 12583.1 13123.7)"><rect x="12567.1" y="13115.7" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12583.1" y="13127.7" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12583.1" y="13139.7" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12583.1" y="13117.7" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(89.9 12583.1 13117.7)">1242.5</text>
+<text x="1638.1" y="14422.8" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-89.9 1638.1 14422.8)">1272.7</text>
+<g transform="rotate(89.8 12585.9 14365.5)"><rect x="12569.9" y="14357.5" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12585.9" y="14369.5" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12585.9" y="14381.5" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12585.9" y="14359.5" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(89.8 12585.9 14359.5)">1241.1</text>
+<text x="1636.3" y="15708.7" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-89.9 1636.3 15708.7)">1298.9</text>
+<g transform="rotate(89.5 12594.2 15606.6)"><rect x="12578.2" y="15598.6" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12594.2" y="15610.6" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12594.2" y="15622.6" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12594.2" y="15600.6" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(89.5 12594.2 15600.6)">1241.3</text>
+<text x="1630.2" y="17025.9" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-89.6 1630.2 17025.9)">1335.6</text>
+<g transform="rotate(89.4 12607.2 16849.5)"><rect x="12591.2" y="16841.5" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12607.2" y="16853.5" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12607.2" y="16865.5" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12607.2" y="16843.5" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(89.4 12607.2 16843.5)">1244.5</text>
+<text x="1622.9" y="18384.6" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-89.8 1622.9 18384.6)">1381.8</text>
+<g transform="rotate(88.3 12632.4 18098.3)"><rect x="12616.4" y="18090.3" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12632.4" y="18102.3" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12632.4" y="18114.3" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12632.4" y="18092.3" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(88.3 12632.4 18092.3)">1253.7</text>
+<text x="1596.5" y="19793.2" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-88.1 1596.5 19793.2)">1436.2</text>
+<g transform="rotate(90.2 12648.6 19361.8)"><rect x="12632.6" y="19353.8" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12648.6" y="19365.8" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12648.6" y="19377.8" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12648.6" y="19355.8" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(90.2 12648.6 19355.8)">1273.8</text>
+<text x="1601.9" y="21258.3" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-92.3 1601.9 21258.3)">1496.0</text>
+<g transform="rotate(84.2 12712.8 20651.9)"><rect x="12696.8" y="20643.9" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12712.8" y="20655.9" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12712.8" y="20667.9" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12712.8" y="20645.9" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(84.2 12712.8 20645.9)">1313.1</text>
+<g transform="rotate(176.8 2163.3 23507.3)"><rect x="2147.3" y="23499.3" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="2163.3" y="23511.3" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-02</text></g><text x="2163.3" y="23523.3" text-anchor="middle" font-size="7.5" fill="#666">对 B-02 · 高差 985.0mm</text>
+<text x="2163.3" y="23501.3" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(176.8 2163.3 23501.3)">1567.6</text>
+<text x="1506.1" y="22775.2" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(-80.8 1506.1 22775.2)">1559.2</text>
+<g transform="rotate(177.6 3731.4 23431.1)"><rect x="3715.4" y="23423.1" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="3731.4" y="23435.1" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-02</text></g><text x="3731.4" y="23447.1" text-anchor="middle" font-size="7.5" fill="#666">对 B-02 · 高差 985.0mm</text>
+<text x="3731.4" y="23425.1" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(177.6 3731.4 23425.1)">1572.3</text>
+<g transform="rotate(177.0 5306.0 23356.8)"><rect x="5290.0" y="23348.8" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="5306.0" y="23360.8" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-02</text></g><text x="5306.0" y="23372.8" text-anchor="middle" font-size="7.5" fill="#666">对 B-02 · 高差 985.0mm</text>
+<text x="5306.0" y="23350.8" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(177.0 5306.0 23350.8)">1580.5</text>
+<g transform="rotate(176.6 6890.7 23267.6)"><rect x="6874.7" y="23259.6" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="6890.7" y="23271.6" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-02</text></g><text x="6890.7" y="23283.6" text-anchor="middle" font-size="7.5" fill="#666">对 B-02 · 高差 985.0mm</text>
+<text x="6890.7" y="23261.6" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(176.6 6890.7 23261.6)">1593.9</text>
+<g transform="rotate(176.5 8491.9 23170.4)"><rect x="8475.9" y="23162.4" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="8491.9" y="23174.4" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-02</text></g><text x="8491.9" y="23186.4" text-anchor="middle" font-size="7.5" fill="#666">对 B-02 · 高差 985.0mm</text>
+<text x="8491.9" y="23164.4" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(176.5 8491.9 23164.4)">1614.5</text>
+<g transform="rotate(176.7 10117.9 23074.3)"><rect x="10101.9" y="23066.3" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="10117.9" y="23078.3" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-02</text></g><text x="10117.9" y="23090.3" text-anchor="middle" font-size="7.5" fill="#666">对 B-02 · 高差 985.0mm</text>
+<text x="10117.9" y="23068.3" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(176.7 10117.9 23068.3)">1643.1</text>
+<g transform="rotate(98.4 12678.5 21987.2)"><rect x="12662.5" y="21979.2" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="12678.5" y="21991.2" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-01</text></g><text x="12678.5" y="22003.2" text-anchor="middle" font-size="7.5" fill="#666">对 B-03 · 高差 636.0mm</text>
+<text x="12678.5" y="21981.2" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(98.4 12678.5 21981.2)">1379.0</text>
+<g transform="rotate(167.7 11758.1 22848.5)"><rect x="11742.1" y="22840.5" width="32" height="16" fill="#fff" stroke="#c0392b" stroke-width="0.7"/><text x="11758.1" y="22852.5" text-anchor="middle" font-size="9" fill="#c0392b" font-weight="bold">S-02</text></g><text x="11758.1" y="22864.5" text-anchor="middle" font-size="7.5" fill="#666">对 B-02 · 高差 985.0mm</text>
+<text x="11758.1" y="22842.5" text-anchor="middle" font-size="7" fill="#1f6f8b" transform="rotate(167.7 11758.1 22842.5)">1678.6</text>
+<g font-size="9" fill="#222">
+<rect x="20" y="23575.730562605724" width="12759" height="86" fill="none" stroke="#333" stroke-width="0.8"/>
+<line x1="20" y1="23597.730562605724" x2="12779" y2="23597.730562605724" stroke="#333" stroke-width="0.5"/>
+<line x1="20" y1="23619.730562605724" x2="12779" y2="23619.730562605724" stroke="#333" stroke-width="0.5"/>
+<line x1="20" y1="23641.730562605724" x2="12779" y2="23641.730562605724" stroke="#333" stroke-width="0.5"/>
+<text x="6399.456737345663" y="23590.730562605724" text-anchor="middle" font-size="13" font-weight="bold">下料图 B-01（单位：mm）</text>
+<text x="26" y="23612.730562605724">外包尺寸：12758.9 × 23530.7　板材幅面：1220 × 2440　周长：71682.7</text>
+<text x="26" y="23634.730562605724">平均高程：5.45 m　最大摊平失真：1.5%　投影面积：261.72 m²</text>
+<text x="26" y="23656.730562605724">拼缝对应：S-01↔B-03(高差636.0mm)；S-02↔B-02(高差985.0mm)</text>
+</g>
+</svg>
